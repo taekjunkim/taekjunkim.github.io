@@ -1,0 +1,16 @@
+/* the default font size: 12pt */
+html {
+    font-size: 11pt;
+  }
+  
+.custom-icon {
+  font-size: 2em;
+  color: gray;  /* Default color */
+  text-decoration: none;
+  background: transparent; 
+}
+
+.custom-icon:hover {
+  color: rgb(0, 89, 255);  /* Change color to blue when hovering */
+  background: transparent; 
+}

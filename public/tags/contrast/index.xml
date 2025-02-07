@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contrast on Taekjun Kim</title>
+    <link>http://localhost:1313/tags/contrast/</link>
+    <description>Recent content in Contrast on Taekjun Kim</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/contrast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binocular function during unequal monocular input</title>
+      <link>http://localhost:1313/publications/ejn_2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/ejn_2017/</guid>
+      <description>Taekjun Kim, Ralph D Freeman &lt;code&gt;European Journal of Neuroscience&lt;/code&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motion on Taekjun Kim</title>
+    <link>http://localhost:1313/tags/motion/</link>
+    <description>Recent content in Motion on Taekjun Kim</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/motion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissociation in neuronal encoding of object versus surface motion in the primate brain</title>
+      <link>http://localhost:1313/publications/currbio_2023/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/currbio_2023/</guid>
+      <description>Anthony Bigelow*, Taekjun Kim*, Tomoyuki Namima, Wyeth Bair, Anitha Pasupathy &lt;code&gt;Current Biology&lt;/code&gt;</description>
+    </item>
+  </channel>
+</rss>

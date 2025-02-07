@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surface on Taekjun Kim</title>
+    <link>http://localhost:1313/tags/surface/</link>
+    <description>Recent content in Surface on Taekjun Kim</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/surface/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Object shape and surface properties are jointly encoded in mid-level ventral visual cortex</title>
+      <link>http://localhost:1313/publications/curropinneurobiol_2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/curropinneurobiol_2019/</guid>
+      <description>Anitha Pasupathy, Taekjun Kim, Dina V Popovkina &lt;code&gt;Current opinion in neurobiology&lt;/code&gt;</description>
+    </item>
+    <item>
+      <title>Neural coding for shape and texture in macaque area V4</title>
+      <link>http://localhost:1313/publications/jneurosci_2019/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/jneurosci_2019/</guid>
+      <description>Taekjun Kim, Wyeth Bair, Anitha Pasupathy &lt;code&gt;Journal of Neuroscience&lt;/code&gt;</description>
+    </item>
+  </channel>
+</rss>
