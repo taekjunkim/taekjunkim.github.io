@@ -9,6 +9,3 @@ cascade:
 ---
 
 {{< lead >}} Things I find interesting {{< /lead >}}
-
-> [!note] note
-> Contents
