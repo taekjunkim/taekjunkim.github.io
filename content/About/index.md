@@ -9,9 +9,9 @@ cascade:
   showRecent: false  
 ---
 ## Taekjun Kim, Ph.D.    
-<a href="https://github.com/taekjunkim" target="_blank" class="custom-icon">{{< icon "github" >}}</a>
-<a href="https://linkedin.com/taekjun-kim" target="_blank" class="custom-icon">{{< icon "linkedin" >}}</a>
-<a href="https://scholar.google.com/citations?user=pP442rIAAAAJ&hl=en" target="_blank" class="custom-icon">{{< icon "google-scholar" >}}</a> 
+<a href="https://github.com/taekjunkim" target="_blank" class="custom-icon" style="margin-right: 10px;">{{< icon "github" >}}</a>
+<a href="https://linkedin.com/taekjun-kim" target="_blank" class="custom-icon" style="margin-right: 10px;">{{< icon "linkedin" >}}</a>
+<a href="https://scholar.google.com/citations?user=pP442rIAAAAJ&hl=en" target="_blank" class="custom-icon" style="margin-right: 10px;">{{< icon "google-scholar" >}}</a> 
 <font size="2"> {{<button href="TaekjunKim_CV.pdf" target="_self" download="TaekjunKim_CV.pdf" >}} Download CV {{</button>}} </font>
 
 - Acting Assistant Professor
