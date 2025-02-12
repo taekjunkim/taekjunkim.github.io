@@ -23,6 +23,13 @@
       <description>Taekjun Kim, Anitha Pasupathy &lt;code&gt;Journal of Neuroscience&lt;/code&gt;</description>
     </item>
     <item>
+      <title>Face Morphing</title>
+      <link>http://localhost:1313/posts/face_morph/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/face_morph/</guid>
+      <description>Face morphing implementation in Python</description>
+    </item>
+    <item>
       <title>Dissociation in neuronal encoding of object versus surface motion in the primate brain</title>
       <link>http://localhost:1313/publications/currbio_2023/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/jneurosci_2022/</guid>
       <description>Taekjun Kim, Wyeth Bair, Anitha Pasupathy &lt;code&gt;Journal of Neuroscience&lt;/code&gt;</description>
-    </item>
-    <item>
-      <title>Face Morphing</title>
-      <link>http://localhost:1313/posts/face_morph/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/face_morph/</guid>
-      <description>Face morphing implementation in Python</description>
     </item>
     <item>
       <title>test</title>
