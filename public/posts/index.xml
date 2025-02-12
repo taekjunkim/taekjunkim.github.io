@@ -16,6 +16,13 @@
       <description>how to use PARA method for knowledge management</description>
     </item>
     <item>
+      <title>Face Morphing</title>
+      <link>http://localhost:1313/posts/face_morph/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/face_morph/</guid>
+      <description>Face morphing implementation in Python</description>
+    </item>
+    <item>
       <title>test</title>
       <link>http://localhost:1313/posts/kkk/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
