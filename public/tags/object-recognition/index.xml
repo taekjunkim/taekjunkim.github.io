@@ -9,13 +9,6 @@
     <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/object-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test</title>
-      <link>http://localhost:1313/posts/kkk/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kkk/</guid>
-      <description>how to use NWB</description>
-    </item>
-    <item>
       <title>Visual functions of primate area V4</title>
       <link>http://localhost:1313/publications/annurevvissci_2020/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
